@@ -306,6 +306,8 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
   .first > div :nth-child(2) {
     font-size: 14px;
   }
-  
+  .hero-buttons >input{
+    width: 300px;
+  }
 
 } 
